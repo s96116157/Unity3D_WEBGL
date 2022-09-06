@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WEBGL",
+"productVersion": "0.1",
+"dataUrl": "TTS.data.unityweb",
+"wasmCodeUrl": "TTS.wasm.code.unityweb",
+"wasmFrameworkUrl": "TTS.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
